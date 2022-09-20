@@ -19,7 +19,7 @@ let students = [
     }
 ];
 
-const update = (item, val) => subjects = [...students[0][item], val]
+const update = (item, val) => [...students[0][item], val]
 
 let updatedSubjects = update("subjects", "Electronics")
 console.log(updatedSubjects)
