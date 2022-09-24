@@ -21,6 +21,6 @@
       "**/CVS": true
    },
    "files.autoSave": "off",
-   "workbench.colorTheme": "Default Dark+",
+   "workbench.colorTheme": "Gruvbox Dark Hard",
    "editor.defaultFormatter": "HookyQR.beautify"
 }
